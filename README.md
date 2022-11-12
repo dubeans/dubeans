@@ -3,7 +3,7 @@
 - I am familiar with digital image processing and machine vision, and automation equipment control development.
 - 🌱 I’m currently working on the quality test development for optical imaging system and display system.
 - 💞️ I’m looking to collaborate on software studying.
-- 📫 How to reach me, @dubeans or contect my email: gaoszzzz@qq.com
+- 📫 How to reach me, @dubeans or contact by email: gaoszzzz@qq.com
 
 <!---
 dubeans/dubeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
